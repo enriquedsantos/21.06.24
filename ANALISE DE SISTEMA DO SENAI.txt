@@ -1,0 +1,40 @@
+ANALISE DE SISTEMA DO SENAI
+
+*Identificar necessidade especificas
+Entrevistar diferentes departamentos e funcionários.
+Analisar e identificar pontos para melhorias
+
+*Design do sistema
+Criar interfaces intuitivas que atendam às necessidades do diferente usuários
+(Professores, Alunos, Administradores)
+
+*Funcionalidades principais
+.Gestão acadêmica: Registro de alunos, gestão de cursos, acompanhamento acadêmico
+.Recursos humanos e financeiros
+.Infraestrutura e manutenção 
+
+*Sistema externo, APIS e Serviços web
+Integração com sistema do governo para "certificações" 
+sistema de gestão empresarial, sistemas de biblioteca etc.
+
+*Segurança proteção de dados e acesso controlado: Gerenciar permissões de usuários para garantir apenas pessoas autorizado tenha acesso a informações confidenciais
+
+*Testes e implementação
+Realizar testes extensivos com usuários finais
+Implementar o sistema por fases e expandindo gradualmente
+
+*Treinamento 
+Oferecer treinamento para garantir que todos os usuários entendam o novo sistema
+
+*Suporte
+Estabelecer uma equipe de suporte
+
+*Manutenção
+Coletar feedbacks regular dos usuários para identificar áreas de melhoria e
+manter o sistema atualizado
+
+*Prazo de desenvolvimento
+Será 4 meses; 1 mês para analise, 2 mês de desenvolvimento e 1 mês de testes
+
+*Valor do sistema
+80mil, 30% após a analise restante na entrega do sistema.
